@@ -1,0 +1,1 @@
+QR-код содержат сложную информ, чем просто text. Need used специальные форматы data: vCard, iCalendar.
