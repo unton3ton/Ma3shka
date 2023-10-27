@@ -53,6 +53,12 @@ LSB [1-3] стеганография является наиболее полу�
 
 ![](https://raw.githubusercontent.com/unton3ton/Ma3shka/main/images/matryoshka/9PC%2Bphone%2Bresult.png)
 
+Если внести чуть больше повреждений, то  извлекаемый qr уже не считывается (по крайней мере, без допобработки и вытягивания резкости изображения):
+
+![](https://raw.githubusercontent.com/unton3ton/Ma3shka/main/images/matryoshka/10embedded_img.png)
+
+![](https://raw.githubusercontent.com/unton3ton/Ma3shka/main/images/matryoshka/10PC-phone-result.png)
+
 
 ## Sources
 
