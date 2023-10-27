@@ -65,6 +65,16 @@ LSB [1-3] стеганография является наиболее полу�
 
 ![](https://raw.githubusercontent.com/unton3ton/Ma3shka/main/images/compressTelega-for-fulltext/embedded_text1.jpg)
 
+#### Любая Матрёшка вам скажет, что длина имеет значение!
+
+Если передавать кртк спецсообщения (в идеале несколько символов или 1 слово), то робастность сильно повышается. Даже если сильно издеваться над контейнером:
+
+![](https://raw.githubusercontent.com/unton3ton/Ma3shka/main/images/crop-test-for-message-QR/watermark_qrcode.png)
+
+![](https://raw.githubusercontent.com/unton3ton/Ma3shka/main/images/crop-test-for-message-QR/embedded_img.png)
+
+![](https://raw.githubusercontent.com/unton3ton/Ma3shka/main/images/crop-test-for-message-QR/extracted_img.png)
+
 ## Выводы
 
 1. 
@@ -100,16 +110,4 @@ LSB [1-3] стеганография является наиболее полу�
 27. [Digital Watermarking for Image Authentication Based on Combined DCT, DWT and SVD Transformation](https://www.ijcsi.org/papers/IJCSI-10-3-1-223-230.pdf)
 28. [Generate Beautiful QR Codes With Python](https://realpython.com/python-generate-qr-code/)
 29. [qreader 3.12](https://pypi.org/project/qreader/)
-30. []()
-31. []()
-32. []()
-33. []()
-34. []()
-35. []()
-36. []()
-37. []()
-38. []()
-39. []()
-40. []()
-41. []()
-42. []()
+    
