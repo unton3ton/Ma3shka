@@ -112,4 +112,6 @@ LSB [1-3] стеганография является наиболее полу�
 27. [Digital Watermarking for Image Authentication Based on Combined DCT, DWT and SVD Transformation](https://www.ijcsi.org/papers/IJCSI-10-3-1-223-230.pdf)
 28. [Generate Beautiful QR Codes With Python](https://realpython.com/python-generate-qr-code/)
 29. [qreader 3.12](https://pypi.org/project/qreader/)
+30. [3ащита от манипуляций с изображениями  photoguard: Raising the Cost of Malicious AI-Powered Image Editing](https://github.com/MadryLab/photoguard#raising-the-cost-of-malicious-ai-powered-image-editing)
+31. [Convolutional Neural Network-Based Image Watermarking using Discrete Wavelet Transform](https://github.com/alirezatwk/Convolutional-Neural-Network-Based-Image-Watermarking-using-Discrete-Wavelet-Transform/tree/master) с примерами [атак](https://github.com/alirezatwk/Convolutional-Neural-Network-Based-Image-Watermarking-using-Discrete-Wavelet-Transform/tree/master/attacks) и ссылкой на [датасет](https://cocodataset.org/#home)
     
